@@ -6,7 +6,7 @@
 
 🖥️ Missão: Transformar café em código (e talvez algumas pizzas em bugs).
 
-- 🌱 Estudando ALGORITMOS, HTML, CSS, JAVASCRIPT, REACT E BANCO DE DADOS.
+- 🌱 Estudando ALGORITMOS, HTML, CSS, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, FIGMA e REACT.
   
 - 📚 Habilidades:
 Resolver problemas complexos com um sorriso e um bom meme.
@@ -27,8 +27,8 @@ Fazer amigos imaginários com nomes de variáveis.
   <img align="center" alt="Jenn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jenn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jenn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jenn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
 </div>
 
 ##
