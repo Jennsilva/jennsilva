@@ -6,7 +6,7 @@
 
 🖥️ Missão: Transformar café em código (e talvez algumas pizzas em bugs).
 
-- 🌱 Estudando ALGORITMOS, HTML, CSS, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, FIGMA e REACT.
+- 🌱 Estudando ALGORITMOS, HTML, CSS, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, FIGMA, REACT, UI/UX DESIGN, BLENDER E MAYA.
   
 - 😄 Pronomes: ela/dela
 
