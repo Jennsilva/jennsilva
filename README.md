@@ -2,7 +2,7 @@
 
 - 👩‍💻 Jennifer | Exploradora do Código
 
-🌟 Sobre Mim: Há 3 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. Quando não estou desvendando os segredos do JavaScript, você me encontra explorando o CSS, tentando entender por que meu layout está quebrado... de novo.
+🌟 Sobre Mim: Há 5 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. Quando não estou desvendando os segredos do JavaScript, você me encontra explorando o CSS, tentando entender por que meu layout está quebrado... de novo.
 
 🖥️ Missão: Transformar café em código (e talvez algumas pizzas em bugs).
 
