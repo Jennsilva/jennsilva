@@ -1,6 +1,6 @@
-## Olá! Eu sou a Jennifer Silva, desenvolvedora Front-End e 
+## Olá! Eu sou a Jennifer Silva, desenvolvedora Front-End e estou começando minha jornada na especialização em 3D
 
-- 👩🏼‍🚀 UNIVERSE JENN CODE 
+## 👩🏼‍🚀 UNIVERSE JENN CODE 
 
 🌟 Sobre Mim: Há 5 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. Quando não estou desvendando os segredos do JavaScript, você me encontra explorando o CSS, tentando entender por que meu layout está quebrado... de novo.
 
