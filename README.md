@@ -1,12 +1,18 @@
-## Olá! Eu sou a Jennifer Silva, desenvolvedora Front-End e estou começando minha jornada na especialização em 3D
+## Hey ☺️ Sejam Bem-Vindos! Me chamo Jenn e sou uma Desenvolvedora Full Stack em transição de carreira.
+Formação técnica em Informática pela Microcamp e sigo desbloqueando possibilidades através do aprendizado continuo. 🚀 
 
-## 👩🏼‍🚀 UNIVERSE JENN CODE 
+Desenvolvedora Full Stack em formação, apaixonada por tecnologia e inovação. 
+## 
+🌟 Sobre Mim: Há 6 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. 
+Estou me especializando em Azure, SQL e Prisma, com foco em Fundamentos de Computação em Nuvem. Além disso, estou aprimorando minhas habilidades de maneira autodidata em programação Front-end, incluindo HTML, CSS, JavaScript, Typescript, Node.js e React.
 
-🌟 Sobre Mim: Há 5 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. Quando não estou desvendando os segredos do JavaScript, você me encontra explorando o CSS, tentando entender por que meu layout está quebrado... de novo.
+Com uma sólida base em conceitos de informática, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos práticos. Meu objetivo é se tornar uma desenvolvedora Full Stack completa, capaz de criar soluções escaláveis e eficientes que atendam às necessidades dos usuários. 
 
-🖥️ Missão: Transformar café em código (e talvez algumas pizzas em bugs).
+🖥️ Missão: Desbloquear possibilidades e criar conexões entre tecnologia e inovação, inspirando soluções que mudem vidas e impulsionem o futuro!
 
-- 🌱 Estudando ALGORITMOS, HTML, CSS, JAVASCRIPT, TYPESCRIPT, BOOTSTRAP, FIGMA, REACT, UI/UX DESIGN, BLENDER E MAYA.
+- 🌱 Estudando Algoritmos, HTML, CSS, Javascript, Typescript, Bootstrap, Figma, React.js,Node.js, Azure SQL, Prisma e Banco de dados.
+  
+  
   
 - 😄 Pronomes: ela/dela
 
@@ -28,5 +34,6 @@
   <a href = "mailto:jsiilva.jennifer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jenniferjsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
 
