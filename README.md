@@ -3,8 +3,8 @@ Formação técnica em Informática pela Microcamp e sigo desbloqueando possibil
 
 Desenvolvedora Full Stack em formação, apaixonada por tecnologia e inovação. 
 ## 
-🌟 Sobre Mim: Há 6 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. 
-Estou me especializando em Azure, SQL e Prisma, com foco em Fundamentos de Computação em Nuvem. Além disso, estou aprimorando minhas habilidades de maneira autodidata em programação Front-end, incluindo HTML, CSS, JavaScript, Typescript, Node.js e React.
+🌟 Sobre Mim: Há 5 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. 
+Estou me especializando em Azure, SQL e Prisma, com foco em Fundamentos de Computação em Nuvem. Além disso, estou aprimorando minhas habilidades de maneira autodidata em programação Front-end, incluindo HTML, CSS, JavaScript, Typescript, Node.js.
 
 Com uma sólida base em conceitos de informática, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos práticos. Meu objetivo é se tornar uma desenvolvedora Full Stack completa, capaz de criar soluções escaláveis e eficientes que atendam às necessidades dos usuários. 
 
