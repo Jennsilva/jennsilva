@@ -23,7 +23,7 @@ Com uma sólida base em conceitos de informática, estou sempre em busca de novo
   <img align="center" alt="Jenn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" width="40" />
 </div>
 
 ## 
