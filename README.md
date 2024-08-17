@@ -25,6 +25,8 @@ Com uma sólida base em conceitos de informática, estou sempre em busca de novo
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain-wordmark.svg" height="30" width="40"/>
+          
 </div>
 
 ## 
