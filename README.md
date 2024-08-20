@@ -10,7 +10,7 @@ Estou me especializando em Fundamentos de Computação em Nuvem na Fundação FA
 
 🖥️ Missão: Desbloquear possibilidades e criar conexões entre tecnologia e inovação, inspirando soluções que mudem vidas e impulsionem o futuro!
 
-- 🌱 Estudando: | Google Cloud | HTML | CSS | Javascript | Typescript | Node.js | Figma
+- 🌱 Estudando: Google Cloud | HTML | CSS | Javascript | Typescript | Node.js | Figma
   
   
   
