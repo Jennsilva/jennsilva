@@ -10,7 +10,7 @@ Estou me especializando em Fundamentos de Computação em Nuvem na Fundação FA
 
 🖥️ Missão: Desbloquear possibilidades e criar conexões entre tecnologia e inovação, inspirando soluções que mudem vidas e impulsionem o futuro!
 
-- 🌱 Estudando: Algoritmos | HTML | CSS |Javascript | Typescript | Node.js |Google Cloud
+- 🌱 Estudando: Algoritmos | HTML| CSS|Javascript|Typescript |Node.js|Google Cloud
   
   
   
@@ -21,7 +21,6 @@ Estou me especializando em Fundamentos de Computação em Nuvem na Fundação FA
   <img align="center" alt="Jenn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jenn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="30" width="40"/>        
 </div>
