@@ -1,16 +1,16 @@
-## Hey ☺️ Sejam Bem-Vindos! Me chamo Jenn e sou uma Desenvolvedora Full Stack em transição de carreira.
-Formação técnica em Informática pela Microcamp e sigo desbloqueando possibilidades através do aprendizado continuo. 🚀 
+Hey ☺️ Sejam Bem-Vindos! 
 
-Desenvolvedora Full Stack em formação, apaixonada por tecnologia e inovação. 
+Me chamo Jenn e sou uma estudante de Desenvolvimento Full Stack em transição de carreira. Formação técnica de Informática em andamento pela Microcamp e, sigo desbloqueando possibilidades através do aprendizado continuo. 🚀
+
+- Apaixonada por tecnologia, inovação e comunicação. 👩🏼‍💻
+
+Estou me especializando em Fundamentos de Computação em Nuvem na Fundação FAT e aprimorando minhas habilidades de maneira autodidata em programação Front-end, incluindo HTML, CSS, JavaScript, Typescript , Node.js e Figma - para construção de layouts criativos.
+
 ## 
-🌟 Sobre Mim: Há 4 meses, entrei de cabeça no universo da programação e descobri que o código é meu novo idioma favorito. 
-Estou me especializando em Azure, SQL e Prisma, com foco em Fundamentos de Computação em Nuvem. Além disso, estou aprimorando minhas habilidades de maneira autodidata em programação Front-end, incluindo HTML, CSS, JavaScript, Typescript, Node.js.
-
-Com uma sólida base em conceitos de informática, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos práticos. Meu objetivo é se tornar uma desenvolvedora Full Stack completa, capaz de criar soluções escaláveis e eficientes que atendam às necessidades dos usuários. 
 
 🖥️ Missão: Desbloquear possibilidades e criar conexões entre tecnologia e inovação, inspirando soluções que mudem vidas e impulsionem o futuro!
 
-- 🌱 Estudando Algoritmos, HTML, CSS, Javascript, Typescript, Bootstrap, Figma, Node.js, Azure SQL, Prisma e Banco de dados.
+- 🌱 Estudando: Algoritmos | HTML | CSS |Javascript | Typescript | Node.js |Google Cloud
   
   
   
@@ -23,8 +23,6 @@ Com uma sólida base em conceitos de informática, estou sempre em busca de novo
   <img align="center" alt="Jenn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" width="40"/>
   <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="30" width="40"/>        
 </div>
 
