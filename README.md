@@ -7,7 +7,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas e com experiência em
 
 🖥️ Missão: Desbloquear possibilidades e criar conexões entre tecnologia e inovação, inspirando soluções que mudem vidas e impulsionem o futuro!
 
-- 🌱 Estudando:| HTML | CSS | Javascript | Node.js | Figma
+- 🌱 Estudando: HTML | CSS | Javascript | Node.js | Figma | ADS |
   
 - 😄 Pronomes: ela/dela
 
