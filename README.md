@@ -1,28 +1,22 @@
 Hey ☺️ Sejam Bem-Vindos! 
 
-Me chamo Jenn e sou uma estudante de Desenvolvimento Full Stack em transição de carreira. Formação técnica de Informática em andamento pela Microcamp e, sigo desbloqueando possibilidades através do aprendizado continuo. 🚀
+Desenvolvedora full-stack em formação, em constante aprendizado e buscando novos desafios.🚀
 
-- Apaixonada por tecnologia, inovação e comunicação. 👩🏼‍💻
-
-Estou me especializando em Fundamentos de Computação em Nuvem na Fundação FAT e aprimorando minhas habilidades de maneira autodidata em programação Front-end, incluindo HTML, CSS, JavaScript, Typescript , Node.js e Figma - para construção de layouts criativos.
-
+Atualmente cursando Análise e Desenvolvimento de Sistemas e com experiência em HTML, CSS, JavaScript, Node.js e Figma. Meu objetivo é me tornar uma profissional completa, capaz de criar soluções web que resolvam problemas reais das pessoas.
 ## 
 
 🖥️ Missão: Desbloquear possibilidades e criar conexões entre tecnologia e inovação, inspirando soluções que mudem vidas e impulsionem o futuro!
 
-- 🌱 Estudando: Google Cloud | HTML | CSS | Javascript | Typescript | Node.js | Figma
-  
-  
+- 🌱 Estudando:| HTML | CSS | Javascript | Node.js | Figma
   
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jenn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jenn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jenn-Ts" height="30" width="40" 
   <img align="center" alt="Jenn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>
-  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="30" width="40"/>        
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>     
 </div>
 
 ## 
